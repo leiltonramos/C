@@ -20,5 +20,5 @@ int main(){
     printf("A media da sala eh: %f\n", media);
 
 
-    getchar(0);
+    return(0);
 }
