@@ -20,5 +20,5 @@ int main(){
     printf("A multiplicacao eh: %d\n",    mul);
     printf("A divisao eh: %d\n",          div);
 
-    getchar();
+    return(0);
 }

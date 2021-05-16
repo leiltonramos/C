@@ -21,5 +21,5 @@ int main(){
         else
             printf("Nome incorreto!");
 
-    getchar();
+    return(0);
 }

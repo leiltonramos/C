@@ -17,5 +17,5 @@ int main(){
 
     printf("Seu nome é %s e sua idade é %d anos!", nome, idade);
 
-    getchar();
+    return(0);
 }
