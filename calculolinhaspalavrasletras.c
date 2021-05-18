@@ -15,7 +15,6 @@ int main(){
         }else{
             if(texto[i]==' '||texto[i]=='\t'){
                 palavra++;
-                
             }else{
                 letra++;
             }
