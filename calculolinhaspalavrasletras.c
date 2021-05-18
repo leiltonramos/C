@@ -19,7 +19,6 @@ int main(){
                 letra++;
             }
         }
-
     }
 
     printf("Quantidade de linhas eh: %d\n", linha);
